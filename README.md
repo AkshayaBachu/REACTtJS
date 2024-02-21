@@ -1,2 +1,2 @@
-# REACTtJS
+# REACTJS
 react project
